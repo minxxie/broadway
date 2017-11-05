@@ -14,8 +14,12 @@ h1, h4, .link{
   color: white;
 }
 
-h1, h2{
+h1, h2, h3{
   font-weight: bold;
+}
+
+h4, h5{
+  font-weight: normal;
 }
 
 h1{
@@ -26,10 +30,16 @@ h2{
   font-size: 32px;
 }
 
+h3{
+  font-size: 23px;
+}
 
 h4{
   font-size: 18px;
-  font-weight: normal;
+}
+
+h5{
+  font-size: 14px;
 }
 
 .identify{
