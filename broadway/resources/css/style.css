@@ -50,3 +50,12 @@ h5{
   width: 64px;
   height: 35px;
 }
+
+.understand{
+  background-image: url("../images/understand.svg");
+  display: block;
+  margin: auto;
+  background-size: auto 100%;
+  width: 64px;
+  height: 66px;
+}
