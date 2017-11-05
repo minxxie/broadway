@@ -14,7 +14,7 @@ body{
   height: auto;
 }
 
-h1, h4, .link, #divider{
+h1, h4, .link, #divider, li{
   color: white;
 }
 
@@ -71,4 +71,33 @@ h5{
   background-size: auto 100%;
   width: 64px;
   height: 52px;
+}
+
+.bwy{
+  font-size: 11px;
+  padding-top: 7px;
+  padding-right: 5px;
+}
+
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: dimgray;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+li{
+  float:left;
+}
+
+li a {
+    display: block;
+    text-align: center;
+    padding: 2px 2px;
+    text-decoration: underline;
 }
