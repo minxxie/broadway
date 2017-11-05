@@ -14,7 +14,7 @@ h1, h4, .link{
   color: white;
 }
 
-h1{
+h1, h2{
   font-weight: bold;
 }
 
@@ -22,7 +22,13 @@ h1{
   font-size: 70px;
 }
 
-h3{
+h2{
+  font-size: 32px;
+}
+
+
+
+h4{
   font-size: 18px;
   font-weight: normal;
 }
