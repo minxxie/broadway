@@ -27,8 +27,16 @@ h2{
 }
 
 
-
 h4{
   font-size: 18px;
   font-weight: normal;
+}
+
+.identify{
+  background-image: url("../images/identify.svg");
+  display: block;
+  margin: auto;
+  background-size: auto 100%;
+  width: 64px;
+  height: 35px;
 }
